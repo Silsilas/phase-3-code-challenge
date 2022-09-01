@@ -1,4 +1,5 @@
-# Object Relations Code Challenge - Restaurants by Silikhe
+# Object Relations Code Challenge - Restaurants 
+## By Silikhe
 
 For this assignment, we'll be working with a Yelp-style domain.
 
